@@ -1,2 +1,7 @@
 # resume-analyzer-using-ml
-**Resume Analyzer Pro** is an AI-based tool that analyzes resumes, predicts job categories, extracts key skills, scores resumes, and provides feedback. It helps **students** improve their resumes and **hiring managers** streamline screening. Built with **ML, NLP, and Streamlit**, it enhances job matching with AI-driven insights. 🚀
+Resume Analyzer Pro is an AI-powered tool that helps users analyze and improve their resumes. It reads resume content, predicts the best job category, extracts key skills, assigns a resume score, and provides feedback for improvement.
+
+🔹 For Students – Helps create job-ready resumes by identifying missing skills and suggesting improvements.
+🔹 For Hiring Managers – Automates resume screening, making the hiring process faster and more efficient.
+
+Built using Machine Learning (ML), Natural Language Processing (NLP), and Streamlit, this tool enhances job matching and resume quality with AI-driven insights. 🚀
